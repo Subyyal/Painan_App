@@ -1,9 +1,19 @@
 #Mainpage {
 
-  background-image: url("HOME.jpg");
-
+ /* background-image: url("HOME.jpg");*/
 
 }
+
+#myVideo {
+
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+
+
 #Loginpage #labellogin{
 
     font-size: large;
