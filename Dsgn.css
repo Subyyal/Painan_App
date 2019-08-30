@@ -1,18 +1,27 @@
 #Mainpage {
 
- /* background-image: url("HOME.jpg");*/
-
+  background-image: url("https://s1.1zoom.me/big0/131/Fast_food_Hamburger_Buns_Gray_background_Cutting_535312_1280x853.jpg");
+    background-size:cover
 }
 
-#myVideo {
+#Loginpage {
 
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
+    background-image: url("https://i.pinimg.com/originals/53/42/69/534269a4ab4697ccb537644a089f7e59.png");
+    background-size:cover
+
 }
+#menupage{
+
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/164/728/non_2x/fast-food-character-vectors.jpg");
+    background-size:cover
+}
+#Signuppage{
+
+    background-image: url("https://i.kinja-img.com/gawker-media/image/upload/s--s4KD1lSr--/ux7mmbxamu8pvvst8zd1.jpg");
+    background-size:cover
 
 
+}
 
 #Loginpage #labellogin{
 
@@ -47,4 +56,26 @@
 .column img {
     size:20px;
     vertical-align: middle;
+}
+#menupage #burger{
+
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    margin-top: 30px; /* ADDED */
+    margin-left: -30px; /* ADDED */
+}
+#menupage #pepsi{
+
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    margin-top: 70px; /* ADDED */
+    margin-left: -30px; /* ADDED */
+}
+#carttext{
+
+    color: brown;
 }
