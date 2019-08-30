@@ -1,6 +1,6 @@
-body{
+#Mainpage {
 
-    background: darkgreen;
+  background-image: url("HOME.jpg");
 
 
 }
@@ -18,5 +18,23 @@ body{
 }
 #signuptext{
 
-    color: greenyellow;
+    color: #0a7a09;
+    font-weight: bold;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+    flex: 10%;
+    padding: 0 4px;
+}
+
+.column img {
+    size:20px;
+    vertical-align: middle;
 }

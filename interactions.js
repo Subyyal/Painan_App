@@ -1,1 +1,1 @@
-console.log("Go to Git");
+console.log("CONNECTED");
