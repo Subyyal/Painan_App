@@ -4,10 +4,19 @@ body{
 
 
 }
-#Loginpage #loginh1{
+#Loginpage #labellogin{
 
-    color: red;
-
+    font-size: large;
+    font-weight: bold;
 
 }
+#Signuppage #labellogin{
 
+    font-size: large;
+    font-weight: bold;
+
+}
+#signuptext{
+
+    color: greenyellow;
+}
